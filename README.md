@@ -8,6 +8,20 @@ Check the working of the project here: [Project Demo](https://tinyurl.com/Akashp
 
 ## 🚀 **Features**
 
+project managent tool built 
+
+Here are some screenshots:
+
+![](https://github.com/matagus/matorral/raw/main/matorral/static/screenshots/stories-1.png)
+
+![](https://github.com/matagus/matorral/raw/main/matorral/static/screenshots/stories-2.png)
+
+![](https://github.com/matagus/matorral/raw/main/matorral/static/screenshots/stories-4.png)
+
+![](https://github.com/matagus/matorral/raw/main/matorral/static/screenshots/epics-1.png)
+
+![](https://github.com/matagus/matorral/raw/main/matorral/static/screenshots/sprints-1.png)
+  
 ### 🔑 **Admin Features**
 * **🔐 Admin Login:**  Secure login for project administrators to access the platform.  
 * **🔑 Password Authentication:**  Ensures secure access with authentication for admin users.  
